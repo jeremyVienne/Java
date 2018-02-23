@@ -1,0 +1,15 @@
+La terre est ronde?
+true
+10
+Quel est le nom de l'auteur du seigneur des anneaux?
+Tolkien
+1
+Combien de membres composent la compagnie de l'anneau:
+9
+2
+Comment s'appelle le poney qui accompagne la compagnie jusqu'a la Moria?
+Bill|Bourricot|Robert|Jolly
+3
+Donnez le nom de l'un des hobbits de la compagnie de l'anneau:
+Pippin;Sam;Frodo;Merry
+1
